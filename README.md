@@ -34,6 +34,13 @@
 </p>
 
 <p align="center">
+  <img src="https://github.com/khalidhasananik/github-stats/blob/generated/overview.svg#gh-dark-mode-only" alt="GitHub stats overview" />
+  <img src="https://github.com/khalidhasananik/github-stats/blob/generated/languages.svg#gh-dark-mode-only" alt="Languages used" />
+  <img src="https://github.com/khalidhasananik/github-stats/blob/generated/overview.svg#gh-light-mode-only" alt="GitHub stats overview" />
+  <img src="https://github.com/khalidhasananik/github-stats/blob/generated/languages.svg#gh-light-mode-only" alt="Languages used" />
+</p>
+
+<p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/khalidhasananik/khalidhasananik/output/github-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/khalidhasananik/khalidhasananik/output/github-snake.svg" />
