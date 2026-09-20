@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="Khalidhasananik.jpg" width="460" alt="Khalid Hasan" />
+  <img src="Khalidhasananik.jpg" width="100%" alt="Khalid Hasan" />
 </div>
 
 <h3 align="center">Project Coordination · Web Development · AI Agents · Workflow Automation</h3>
