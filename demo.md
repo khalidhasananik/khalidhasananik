@@ -2,24 +2,25 @@
   <img src="Khalidhasananik.jpg" width="460" alt="Khalid Hasan" />
 </div>
 
-<h3 align="center">Full-Stack Developer · Automation Engineer</h3>
+<h3 align="center">Project Coordination · AI Agents · Workflow Automation</h3>
 <p align="center">Dhaka, Bangladesh · Building at AWTOMATIG</p>
 
 <p align="center">
   <a href="https://khalidhasananik.com"><img src="https://img.shields.io/badge/Website-khalidhasananik.com-e11d48?style=flat-square" alt="Website" /></a>
+  <a href="https://www.linkedin.com/in/khalidhasananik/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://github.com/khalidhasananik"><img src="https://img.shields.io/github/followers/khalidhasananik?label=Follow&style=flat-square&color=181717&logo=github&logoColor=white" alt="GitHub followers" /></a>
 </p>
 
 <p align="center">
-  I build web products end-to-end and automate the workflows behind them —<br/>
-  from client-facing sites to backend processes wired together with n8n.
+  I coordinate projects and build AI agent &amp; automation workflows at AWTOMATIG —<br/>
+  pairing tools like Claude Code, n8n, and the OpenAI/Gemini APIs with full-stack web development to ship things end-to-end.
 </p>
 
 <br/>
 
 <h3 align="center">Tech Stack</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,nodejs,html,css,bash,git,vscode" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=ts,js,nodejs,html,css,bash,git,github,vscode,figma,vercel,notion" alt="Tech stack" />
 </p>
 
 <br/>
@@ -67,5 +68,5 @@
 </p>
 
 <p align="center">
-  <sub><a href="https://khalidhasananik.com">khalidhasananik.com</a> · <a href="https://github.com/khalidhasananik">GitHub</a></sub>
+  <sub><a href="https://khalidhasananik.com">khalidhasananik.com</a> · <a href="https://github.com/khalidhasananik">GitHub</a> · <a href="https://www.linkedin.com/in/khalidhasananik/">LinkedIn</a> · <a href="mailto:khalidhasananik@outlook.com">Email</a></sub>
 </p>
