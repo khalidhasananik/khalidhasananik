@@ -61,10 +61,8 @@
 </p>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal" alt="Programming quote" />
-  </picture>
+  <em>"When a task cannot be partitioned because of sequential constraints, the application of more effort has no effect on the schedule. The bearing of a child takes nine months, no matter how many women are assigned."</em><br/>
+  <sub>— Fred Brooks</sub>
 </p>
 
 <p align="center">
