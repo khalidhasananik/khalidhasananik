@@ -35,10 +35,8 @@
 
 <p align="center">
   <img src="https://github.com/khalidhasananik/github-stats/blob/generated/overview.svg#gh-dark-mode-only" alt="GitHub stats overview" />
-  <img src="https://github.com/khalidhasananik/github-stats/blob/generated/overview.svg#gh-light-mode-only" alt="GitHub stats overview" />
-</p>
-<p align="center">
   <img src="https://github.com/khalidhasananik/github-stats/blob/generated/languages.svg#gh-dark-mode-only" alt="Languages used" />
+  <img src="https://github.com/khalidhasananik/github-stats/blob/generated/overview.svg#gh-light-mode-only" alt="GitHub stats overview" />
   <img src="https://github.com/khalidhasananik/github-stats/blob/generated/languages.svg#gh-light-mode-only" alt="Languages used" />
 </p>
 
