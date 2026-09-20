@@ -2,7 +2,7 @@
   <img src="Khalidhasananik.jpg" width="460" alt="Khalid Hasan" />
 </div>
 
-<h3 align="center">Project Coordination · AI Agents · Workflow Automation</h3>
+<h3 align="center">Project Coordination · Web Development · AI Agents · Workflow Automation</h3>
 <p align="center">Dhaka, Bangladesh · Building at AWTOMATIG</p>
 
 <p align="center">
