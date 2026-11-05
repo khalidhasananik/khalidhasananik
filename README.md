@@ -28,8 +28,8 @@
 <h3 align="center">GitHub Activity</h3>
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=khalidhasananik&theme=dark&hide_border=true" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=khalidhasananik&hide_border=true" alt="GitHub streak stats" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=khalidhasananik&theme=dark&hide_border=true" />
+    <img src="https://streak-stats.demolab.com/?user=khalidhasananik&hide_border=true" alt="GitHub streak stats" />
   </picture>
 </p>
 
